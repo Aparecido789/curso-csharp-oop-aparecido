@@ -1,0 +1,13 @@
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\obj\Debug\netcoreapp3.1\Get-Set.csprojAssemblyReference.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\obj\Debug\netcoreapp3.1\Get-Set.AssemblyInfoInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\obj\Debug\netcoreapp3.1\Get-Set.AssemblyInfo.cs
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\obj\Debug\netcoreapp3.1\Get-Set.csproj.CoreCompileInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\bin\Debug\netcoreapp3.1\Get-Set.exe
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\bin\Debug\netcoreapp3.1\Get-Set.deps.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\bin\Debug\netcoreapp3.1\Get-Set.runtimeconfig.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\bin\Debug\netcoreapp3.1\Get-Set.runtimeconfig.dev.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\bin\Debug\netcoreapp3.1\Get-Set.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\bin\Debug\netcoreapp3.1\Get-Set.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\obj\Debug\netcoreapp3.1\Get-Set.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\obj\Debug\netcoreapp3.1\Get-Set.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio8\Get-Set\obj\Debug\netcoreapp3.1\Get-Set.genruntimeconfig.cache
