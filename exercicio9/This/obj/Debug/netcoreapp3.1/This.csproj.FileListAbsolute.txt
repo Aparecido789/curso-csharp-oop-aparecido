@@ -1,0 +1,13 @@
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\bin\Debug\netcoreapp3.1\This.exe
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\bin\Debug\netcoreapp3.1\This.deps.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\bin\Debug\netcoreapp3.1\This.runtimeconfig.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\bin\Debug\netcoreapp3.1\This.runtimeconfig.dev.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\bin\Debug\netcoreapp3.1\This.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\bin\Debug\netcoreapp3.1\This.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\obj\Debug\netcoreapp3.1\This.csprojAssemblyReference.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\obj\Debug\netcoreapp3.1\This.AssemblyInfoInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\obj\Debug\netcoreapp3.1\This.AssemblyInfo.cs
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\obj\Debug\netcoreapp3.1\This.csproj.CoreCompileInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\obj\Debug\netcoreapp3.1\This.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\obj\Debug\netcoreapp3.1\This.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio9\This\obj\Debug\netcoreapp3.1\This.genruntimeconfig.cache
