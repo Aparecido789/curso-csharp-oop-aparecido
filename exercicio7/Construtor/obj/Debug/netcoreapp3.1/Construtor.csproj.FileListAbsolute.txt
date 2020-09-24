@@ -1,0 +1,13 @@
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\bin\Debug\netcoreapp3.1\Construtor.exe
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\bin\Debug\netcoreapp3.1\Construtor.deps.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\bin\Debug\netcoreapp3.1\Construtor.runtimeconfig.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\bin\Debug\netcoreapp3.1\Construtor.runtimeconfig.dev.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\bin\Debug\netcoreapp3.1\Construtor.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\bin\Debug\netcoreapp3.1\Construtor.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\obj\Debug\netcoreapp3.1\Construtor.csprojAssemblyReference.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\obj\Debug\netcoreapp3.1\Construtor.AssemblyInfoInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\obj\Debug\netcoreapp3.1\Construtor.AssemblyInfo.cs
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\obj\Debug\netcoreapp3.1\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\obj\Debug\netcoreapp3.1\Construtor.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\obj\Debug\netcoreapp3.1\Construtor.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio7\Construtor\obj\Debug\netcoreapp3.1\Construtor.genruntimeconfig.cache
