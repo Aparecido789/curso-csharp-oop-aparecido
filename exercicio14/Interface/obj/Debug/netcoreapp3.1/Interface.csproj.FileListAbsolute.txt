@@ -1,0 +1,13 @@
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio14\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
