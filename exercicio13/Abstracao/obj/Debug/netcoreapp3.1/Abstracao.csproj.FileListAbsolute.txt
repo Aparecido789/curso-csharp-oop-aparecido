@@ -1,0 +1,13 @@
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csprojAssemblyReference.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfoInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfo.cs
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.exe
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.deps.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.dev.json
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\Chico s\Desktop\GITHUB\curso-csharp-oop-aparecido\exercicio13\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.genruntimeconfig.cache
